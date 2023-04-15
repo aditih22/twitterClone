@@ -1,0 +1,26 @@
+.tweet-box {
+display: flex;
+padding: 12px;
+}
+
+.tweet-footer {
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-around;
+    font-size: smaller;
+}
+
+.content-box {
+    padding: 0 12px 12px 12px;
+}
+
+.tweet-text {
+    font-size: smaller;
+}
+
+.imageprofile {
+    border-radius: 50%;
+    width: 5%;
+    height: 14%;
+    margin: 0px;
+}

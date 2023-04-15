@@ -1,0 +1,30 @@
+.card {
+    margin:12px 30px;
+    border-radius: 16px !important;
+    position: sticky !important;
+    top: 12px;
+}
+
+.card-text {
+    font-size: small;
+}
+
+.btn {
+    width: 80%;
+    margin: 12px;
+    border-radius: 75px !important;
+    height: 45px !important;
+}
+
+.btn-primary {
+    color: #000 !important;
+    background-color: white !important;
+}
+
+.agreement {
+    font-size: smaller;
+}
+
+a {
+    text-decoration: none !important;
+}

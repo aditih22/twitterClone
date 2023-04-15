@@ -1,0 +1,18 @@
+.leftContainer {
+    width: 25%;
+}
+
+.rightContainer {
+    width: 30%;
+   
+}
+
+.centerContainer {
+    width: 45%;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+
+.mainDiv {
+    display: flex;
+}

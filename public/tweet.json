@@ -1,0 +1,47 @@
+
+      [{
+        "authorName":"Elon Musk",
+        "authorImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+        "text":"Those of us who have done the most to cause this problem should help the rest of the world survive it. We owe them that much.",
+        "handle":"@elonMusk",
+        "likes":"56.5k",
+        "retweets":"100k",
+        "comments":"5k"
+      },
+      {
+        "authorName":"Bill Gates",
+        "authorImg":"https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+        "text":"In order to solve our world’s sanitation crisis, we need smarter toilets that don’t rely on sewage systems and prevent the spread of diseases. #WorldToiletDay",
+        "handle":"@billGates",
+        "likes":"586.5k",
+        "retweets":"1M",
+        "comments":"675k"
+      },
+      {
+        "authorName":"Anushka Sharma",
+        "authorImg":"https://pbs.twimg.com/profile_images/1397933191344791560/ovmcd_a0_400x400.jpg",
+        "text":"Africa has always been at the heart of our foundation’s mission. Today, we are announcing our commitment of $7 billion over the next 4 years for the development of more breakthrough innovations in health and agriculture across the continent.",
+        "handle":"@aditiHanda",
+        "likes":"126.5k",
+        "retweets":"170k",
+        "comments":"85k"
+      },
+      {
+        "authorName":"Vaishali Negi",
+        "authorImg":"https://pbs.twimg.com/profile_images/1473467361608957955/3siwdn-x_400x400.jpg",
+        "text":"I believe everyone has a role to play in addressing climate change. Whether you’re an entrepreneur, an inventor, or consumer, we can all help avoid a climate disaster",
+        "handle":"@Negivishal",
+        "likes":"526.5k",
+        "retweets":"10k",
+        "comments":"25k"
+      },
+      {
+        "authorName":"Virat Kohli",
+        "authorImg":"https://pbs.twimg.com/profile_images/1562753500726976514/EPSUNyR3_400x400.jpg",
+        "text":"I believe everyone has a role to play in addressing climate change. Whether you’re an entrepreneur, an inventor, or consumer, we can all help avoid a climate disaster",
+        "handle":"@IMKohli",
+        "likes":"926.5k",
+        "retweets":"10B",
+        "comments":"275k"
+      }
+      ]

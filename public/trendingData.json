@@ -1,0 +1,26 @@
+[{
+    "header":"Trending in India",
+    "text":"Cricket",
+    "tweetCount":"50K tweets"
+},
+{
+    "header":"Trending in Bihar",
+    "text":"Election",
+    "tweetCount":"250K tweets"
+},
+{
+    "header":"Trending in Bussiness",
+    "text":"Ratan Tata",
+    "tweetCount":"750K tweets"
+},
+{
+    "header":"Trending in International",
+    "text":"USA",
+    "tweetCount":"1.5M tweets"
+},
+{
+    "header":"Trending in World",
+    "text":"CommonWealth Games",
+    "tweetCount":"25M tweets"
+}
+]
